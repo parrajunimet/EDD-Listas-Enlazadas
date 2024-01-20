@@ -17,6 +17,5 @@ public interface ListInterface {
     public Object deleteFinal();
     public Object deleteInIndex(int index);
     public boolean isEmpty();
-    public int length();
     public void print();
 }
